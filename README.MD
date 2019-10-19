@@ -2,6 +2,7 @@
 
 - The Executive Summary deck provides an overview of the steps we took in our project.
 - The Movies_ETL notebook contains our final analysis for the project and the cleaning/querying of our database. 
+- The SQL file was used to create our table schema and tables within our database.
 - The Resources folder contains CSV files of our data and individual cleaning efforts of our team members before joining them all in the final notebook.
 - The Images folder contains plots as a result of cleaning our data.
 
